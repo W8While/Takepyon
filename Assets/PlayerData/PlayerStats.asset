@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4137f9ae2b30ae04b8fc8c52a2eb0ef4, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Player.PlayerScriptibleObjects
+  _maxHealtPoint: 100
+  _maxAmaterasu: 100
+  _startAmaterasu: 50
+  _maxTsukuyomu: 100
+  _startTsukyomu: 50
+  _maxYokay: 100
+  _startYokay: 50
